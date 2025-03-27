@@ -1,4 +1,4 @@
-# Student Face Recognition System Documentation
+# Student Identification Management
 
 ## Table of Contents
 1. [Introduction](#introduction)
